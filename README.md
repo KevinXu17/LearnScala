@@ -3,3 +3,7 @@
 2) Values variables types
 3) expressions
 4) function
+5) type inference
+6) stack tail recursion
+7) call by name & call by Value
+8) Default & Named Arguments
