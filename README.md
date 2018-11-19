@@ -7,3 +7,7 @@
 6) stack tail recursion
 7) call by name & call by Value
 8) Default & Named Arguments
+9) Method notations
+10) Object
+11) Inheritance & Traits
+12) Generics
