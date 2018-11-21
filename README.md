@@ -11,3 +11,4 @@
 10) Object
 11) Inheritance & Traits
 12) Generics
+13) Anonymous Classes
