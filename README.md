@@ -12,3 +12,6 @@
 11) Inheritance & Traits
 12) Generics
 13) Anonymous Classes
+14) Case Class
+15) Exceptions
+16) Packaging & Imports

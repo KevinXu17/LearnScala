@@ -6,7 +6,12 @@ object InheritanceAndTraits extends App {
     private def smell = println("ssss...")  // private
   }
 
-  class Cat extends Animal {
+  trait foot {
+
+  }
+  trait hand {}
+
+  class Cat extends Animal with foot with hand  {
     override def eat = println("Hahahaa")  // override
   }
   val cat = new Cat
