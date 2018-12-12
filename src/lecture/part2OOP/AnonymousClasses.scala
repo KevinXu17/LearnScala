@@ -36,4 +36,6 @@ object AnonymousClasses {
     println(truck.move)
   }
 
+  // use val to jump over make object
+
 }
